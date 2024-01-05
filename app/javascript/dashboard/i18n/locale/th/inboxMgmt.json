@@ -723,7 +723,7 @@
       "BODY": {
         "TEAM_AVAILABILITY": {
           "ONLINE": "We are Online",
-          "OFFLINE": "เราไม่อยู่"
+          "OFFLINE": "ออฟไลน์"
         },
         "USER_MESSAGE": "Hi",
         "AGENT_MESSAGE": "Hello"
